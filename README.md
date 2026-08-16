@@ -5,6 +5,5 @@ WholeWorld is Georgian Minecraft Server which existed in November of 2023. I was
 ## My Current plan with it:
 I might use it for any other server but I think I will have default version of this Guide app.
 
-### How to run it:
-WholeWorld26 can run with both Basic JRE (Java 8) or Latest JDK as long as you have it installed properly on your device.
+### How to run it: WholeWorld26 can run with both Basic JRE (Java 8) or Latest JDK as long as you have it installed properly on your device.
 Go to Releases and Choose WholeWorld26 JAR.
