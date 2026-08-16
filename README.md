@@ -7,4 +7,4 @@ I might use it for any other server but I think I will have default version of t
 
 ### How to run it:</br>
 WholeWorld26 can run with both Basic JRE (Java 8) or Latest JDK as long as you have it installed properly on your device.
-Go to Releases and Choose WholeWorld26 JAR.
+Go to Releases and Choose WholeWorld26 JAR, Left click on it after download finishes, or you can Right click on it And choose **"Open"**.
