@@ -1,6 +1,6 @@
 # WholeWorld26
 <img width="854" height="482" alt="image" src="https://github.com/IosebiGames/WholeWorld26/blob/main/src/com/java/Screen/WholeWorld26.png?raw=true"/> </br>
-WholeWorld is Georgian Minecraft Survival Server which existed in November of 2023. I was one of the Developers of WholeWorld and I made Guide App for it (November 19 2023), but then forgot about it so I decided to Improve it (August 16 2026) and Release it. Even if the server is long gone now, The app functions as very small Memorial app for it. </br>
+WholeWorld is Georgian Minecraft Survival Server which existed in November of 2023. I was one of the Developers of WholeWorld and I made Guide App for it (November 19 2023), but then forgot about it so I decided to Improve it (August 16 2026) and Release it. Even if the server is long gone now, The app functions as very small Memorial app for it.
 
 ## Details:</br>
 **Server IP**: 34.88.142.18</br>
