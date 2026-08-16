@@ -1,2 +1,2 @@
 # WholeWorld26
-Guide Application of Long gone Minecraft Server, WholeWorld.
+<img width="854" height="482" alt="image" src="https://github.com/IosebiGames/WholeWorld26/blob/main/src/com/java/Screen/WholeWorld26.png?raw=true" />
