@@ -5,7 +5,7 @@ WholeWorld is Georgian Minecraft Survival Server which existed in November of 20
 ## Details:</br>
 **Server IP**: 34.88.142.18</br>
 **Server Port**: 25565</br> 
-**Supported Versions:** Any from Release 1.8 up to 1.12.2 or Higher.<\br>
+**Supported Versions:** Any from Release 1.8 up to 1.12.2 or Higher.</br>
 **Status Today:** $\color{red}{\text{Closed.}}$ 
 
 ## My Current plan with it:
